@@ -8,8 +8,8 @@ fn main() {
     let mut guess = String::new();
 
     io::stdin()
-            .read_line(&mut guess)
-            .expect("Failsed to read line");
+        .read_line(&mut guess)
+        .expect("Failsed to read line");
 
     println!("You guessed: {guess}");
 }
