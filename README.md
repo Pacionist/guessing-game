@@ -7,7 +7,7 @@ This game using rand library with their dependencies.
 
 ## How to play
 Check releases tab, find release-1. Then:
-- Download zip-archive
+- Download guessing-game.zip archive
 - Extract it to any folder
 - Run 'start.bat' file
 
